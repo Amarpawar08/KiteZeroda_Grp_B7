@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[open browser]]>
+    </line>
+    <line>
+      <![CDATA[login to app...]]>
+    </line>
+    <line>
+      <![CDATA[verifying prof name tc1]]>
+    </line>
+    <line>
+      <![CDATA[logout from app..]]>
+    </line>
+    <line>
+      <![CDATA[login to app...]]>
+    </line>
+    <line>
+      <![CDATA[verifying userid tc2]]>
+    </line>
+    <line>
+      <![CDATA[logout from app..]]>
+    </line>
+    <line>
+      <![CDATA[close browser ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="173" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="173" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+      <class name="TestNG.Annotations">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="openbrowser" is-config="true" duration-ms="78" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[open browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="verifyPN()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="verifyPN" duration-ms="15" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying prof name tc1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPN -->
+        <test-method status="PASS" signature="logintoApp()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="logintoApp" is-config="true" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[login to app...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method status="PASS" signature="logoutfromapp()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="logoutfromapp" is-config="true" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[logout from app..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method status="PASS" signature="logintoApp()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="logintoApp" is-config="true" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[login to app...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method status="PASS" signature="verifyusername()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="verifyusername" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[verifying userid tc2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyusername -->
+        <test-method status="PASS" signature="logoutfromapp()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="logoutfromapp" is-config="true" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[logout from app..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestNG.Annotations@26aa12dd]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-04-06T06:49:01 PDT" finished-at="2021-04-06T06:49:01 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[close browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNG.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
